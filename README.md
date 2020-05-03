@@ -1,7 +1,7 @@
 # Horiseon-Marketing
 
-Website URL: <br>
-github URL for Repository: <br>
+Website URL: https://mhans19.github.io/challenge1-accessibility/<br>
+github URL for Repository: https://github.com/mhans19/challenge1-accessibility<br>
 <br><br>
 User Story <br>
 AS A marketing agency
